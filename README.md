@@ -4,7 +4,8 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## AUTHOR :BRIAN KIPLANGAT
 Brian is a upcoming software developer who aspires to be learn new skills in tech and become a web developer
-
+## DATE OF DEVELOPMENT
+It was developed on 5th feb 2021
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
