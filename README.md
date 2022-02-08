@@ -18,7 +18,7 @@ Requirements:
         <li>Angular</li>
     </ul>
 Fork or clone the repository using the below provided link</br>
-https://github.com/lakipkoecharo/Quoting-</br>
+https://github.com/briankiplangat88/Quoting-</br>
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
