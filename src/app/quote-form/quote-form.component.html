@@ -25,7 +25,7 @@
             <label for="author"> author of the quote</label>
             <input type="text" class="form-control" id="author" [(ngModel)]="newquotes.author" name="author" #author = 'ngModel' required >
             <div [hidden]=" author.valid || author.pristine" class="alert alert-danger" >
-                <p>author is required</p>
+                <p>author required</p>
             </div>
 
         </div>
