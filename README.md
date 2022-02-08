@@ -14,7 +14,7 @@ Requirements:
         <li>Git</li>
         <li>Github</li>
         <li>Web browser</li>
-        <li>A text editor</li>
+        <li>vs code</li>
         <li>Angular</li>
     </ul>
 Fork or clone the repository using the below provided link</br>
