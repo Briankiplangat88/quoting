@@ -33,7 +33,7 @@
             <label for="inputdate">date quote was posted</label><br>
             <input type='date' id="datepublished" [(ngModel)]="newquotes.datepublished" name="datepublished" #datepublished = 'ngModel' required >
             <div [hidden]=" datepublished.valid || datepublished.pristine" class="alert alert-danger" >
-                <p>author is required</p>
+                <p>author required</p>
             </div>
         </div>
 
