@@ -1,8 +1,8 @@
 import { Component, OnInit,Input,EventEmitter,Output } from '@angular/core';
 import { Quotes } from 'src/app/quotes';
-import { faTrash } from '@fortawesome/free-solid-svg-icons';
-import { faThumbsDown } from '@fortawesome/free-solid-svg-icons';
-import { faThumbsUp } from '@fortawesome/free-solid-svg-icons';
+// import { faTrash } from '@fortawesome/free-solid-svg-icons';
+// import { faThumbsDown } from '@fortawesome/free-solid-svg-icons';
+// import { faThumbsUp } from '@fortawesome/free-solid-svg-icons';
 @Component({
   selector: 'app-quote-details',
   templateUrl: './quote-details.component.html',
@@ -10,9 +10,9 @@ import { faThumbsUp } from '@fortawesome/free-solid-svg-icons';
 })
 export class QuoteDetailsComponent implements OnInit {
 
-  faCoffee = faTrash;
-  faThumbsDown=faThumbsDown;
-  faThumbsUp = faThumbsUp;
+  // faCoffee = faTrash;
+  // faThumbsDown=faThumbsDown;
+  // faThumbsUp = faThumbsUp;
 
   
   // dislike: number =0;
